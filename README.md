@@ -1,4 +1,18 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Redux Toolkit Shopping Cart
+
+This project is a simple shopping cart application designed to demonstrate and practice the capabilities of Redux Toolkit in state management. The application allows users to add items to a shopping cart, with the added functionality of keeping track of the quantity if an item is added more than once. The total count of items is also displayed in the navbar, providing a clear and immediate overview of the cart's status.
+
+## Features 
+- Add to Cart: Users can add items to their shopping cart. If an item is added multiple times, the application keeps track of the quantity.
+- Cart Counter: The navbar shows the total count of items in the cart, updating in real time as items are added or removed.
+- Responsive UI: Designed to be responsive and user-friendly across various devices and screen sizes.
+
+## Technologies Used
+- React / Next JS
+- React Redux Toolkit
+- Tailwind CSS
+
+![Project IMG](https://i.imgur.com/kgKkhIq.png)
 
 ## Getting Started
 
